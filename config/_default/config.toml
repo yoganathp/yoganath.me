@@ -4,7 +4,7 @@
 
 theme = "congo"
 
-baseURL = "https://yoganath.me/"
+# baseURL = "https://yoganath.me/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
