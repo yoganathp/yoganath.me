@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 #[[main]]
+ # name = "Home"
+ # url = "/"
+ # weight = 10
+
+#[[main]]
 #  name = "About"
 #  url = "/about/"
 #  weight = 10
@@ -20,10 +25,10 @@
 #  url = "/projects/"
 #  weight = 20
 
-#[[main]]
- # name = "CV"
- # url = "/cv/"
- # weight = 30
+[[main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 30
 
 #[[main]]
  # name = "teaching"
