@@ -2,6 +2,7 @@
 description: Personal website of Yoganath Prabhakar | ECE Engineer | Microcontroller Enthusiast
 layout: "simple"
 title: About
+draft: true
 ---
 
 I am a PhD candidate in statistics at UCLouvain (Belgium) within the Institute of Statistics, Biostatistics and Actuarial Sciences. My [research interests](/research/) focus on [survival analysis](https://statsandr.com/blog/what-is-survival-analysis/) and bio-statistical methods applied to cancer patients. 
