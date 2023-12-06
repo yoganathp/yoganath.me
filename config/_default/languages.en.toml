@@ -10,13 +10,13 @@ title = "Yoganath Prabhakar"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Personal website of Yoganath Prabhakar. ECE Engineer | Microcontroller Enthusiast | Seeking Dynamic Role in Embedded Systems Development"
+  description = "Personal website of Yoganath Prabhakar | ECE Engineer | Microcontroller Enthusiast"
 
 [author]
   name = "Yoganath Prabhakar"
   image = "img/yoganath_profile.png"
   headline = "ECE Engineer | Microcontroller Enthusiast"
-  bio = "Personal website of Yoganath Prabhakar. ECE Engineer | Microcontroller Enthusiast | Seeking Dynamic Role in Embedded Systems Development"
+  bio = "Personal website of Yoganath Prabhakar | ECE Engineer | Microcontroller Enthusiast"
   links = [
       { email = "mailto:yoganath.prabhakar@gmail.com" },
       { linkedin = "https://www.linkedin.com/in/yoganathp" },

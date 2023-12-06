@@ -1,5 +1,5 @@
 ---
-description: Personal website of Yoganath Prabhakar | ECE Engineer | Microcontroller Enthusiast | Seeking Dynamic Role in Embedded Systems Development
+description: Personal website of Yoganath Prabhakar | ECE Engineer | Microcontroller Enthusiast
 layout: "simple"
 title: About
 ---

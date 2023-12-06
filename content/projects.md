@@ -3,6 +3,7 @@ description: See Antoine Soetewey's teaching tasks and positions
 showTableOfContents: false
 title: Projects
 layout: "simple"
+draft: true
 ---
 
 Visiting lecturer for the following course at [UNamur](https://www.unamur.be/):
