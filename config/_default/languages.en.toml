@@ -20,7 +20,7 @@ title = "Yoganath Prabhakar"
   links = [
       { email = "mailto:yoganath.prabhakar@gmail.com" },
       { linkedin = "https://www.linkedin.com/in/yoganathp" },
-      { coffee = "https://www.buymeacoffee.com/yoganathp"},
       { github = "https://github.com/yoganathp" },
+      { coffee = "https://www.buymeacoffee.com/yoganathp"},
   #    { hashnode = "https://blog.yoganath.me" },
   ]
